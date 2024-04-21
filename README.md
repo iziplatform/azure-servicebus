@@ -40,7 +40,7 @@ The script will read the messages from the JSON file specified in the .env file 
 For more information about Azure Service Bus, refer to the [Azure documentation](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 Feel free to customize this `README.md` file further according to your project's specific details and requirements.
 
